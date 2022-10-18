@@ -1,0 +1,13 @@
+[INFO ] 2022-10-14 00:20:36.433 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-14 00:20:44.569 [main] Log - NewRegistration test is starting.
+[INFO ] 2022-10-14 00:21:18.848 [main] Log - NewRegistration test is failed.
+[INFO ] 2022-10-14 00:21:18.966 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-14 00:26:51.665 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-14 00:26:56.979 [main] Log - NewRegistration test is starting.
+[INFO ] 2022-10-14 00:27:01.918 [main] Log - NewRegistration test is succeed.
+[INFO ] 2022-10-14 00:27:02.039 [main] Log - NewRegistration test is failed.
+[INFO ] 2022-10-14 00:27:02.199 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-14 00:43:46.496 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-14 00:43:51.878 [main] Log - NewRegistration test is starting.
+[INFO ] 2022-10-14 00:43:52.125 [main] Log - NewRegistration test is failed.
+[INFO ] 2022-10-14 00:43:52.274 [main] Log - I am in onFinish method DesktopValidation

@@ -1,0 +1,44 @@
+[INFO ] 2022-10-15 22:32:44.170 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-15 22:32:52.018 [main] Log - NewRegistration test is starting.
+[INFO ] 2022-10-15 22:32:52.398 [main] Log - NewRegistration test is failed.
+[INFO ] 2022-10-15 22:32:52.617 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-15 22:37:27.176 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-15 22:37:34.633 [main] Log - NewRegistration test is starting.
+[INFO ] 2022-10-15 22:37:35.152 [main] Log - NewRegistration test is failed.
+[INFO ] 2022-10-15 22:37:35.506 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-15 22:40:27.155 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-15 22:40:35.886 [main] Log - NewRegistration test is starting.
+[INFO ] 2022-10-15 22:40:41.969 [main] Log - NewRegistration test is succeed.
+[INFO ] 2022-10-15 22:40:46.720 [main] Log - NewRegistration test is starting.
+[INFO ] 2022-10-15 22:40:54.096 [main] Log - NewRegistration test is succeed.
+[INFO ] 2022-10-15 22:40:58.719 [main] Log - login test is starting.
+[INFO ] 2022-10-15 22:41:39.185 [main] Log - login test is skipped.
+[INFO ] 2022-10-15 22:41:43.561 [main] Log - login test is starting.
+[INFO ] 2022-10-15 22:42:21.460 [main] Log - login test is failed.
+[INFO ] 2022-10-15 22:42:29.148 [main] Log - CartAddition_Desktop test is starting.
+[INFO ] 2022-10-15 22:43:08.628 [main] Log - CartAddition_Desktop test is skipped.
+[INFO ] 2022-10-15 22:43:12.956 [main] Log - CartAddition_Desktop test is starting.
+[INFO ] 2022-10-15 22:43:50.384 [main] Log - CartAddition_Desktop test is failed.
+[INFO ] 2022-10-15 22:43:50.919 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-15 22:59:18.702 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-15 22:59:24.368 [main] Log - NewRegistration test is starting.
+[INFO ] 2022-10-15 23:29:26.404 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-15 23:29:35.714 [main] Log - Desktop_Order_CashOnDelivery test is starting.
+[INFO ] 2022-10-15 23:30:09.338 [main] Log - Desktop_Order_CashOnDelivery test is skipped.
+[INFO ] 2022-10-15 23:30:12.195 [main] Log - Desktop_Order_CashOnDelivery test is starting.
+[INFO ] 2022-10-15 23:30:12.229 [main] Log - Desktop_Order_CashOnDelivery test is failed.
+[INFO ] 2022-10-15 23:30:12.236 [main] Log - Desktop_Order_CashOnDelivery test is failed.
+[INFO ] 2022-10-15 23:30:12.239 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-15 23:38:18.827 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-15 23:38:28.127 [main] Log - Desktop_Order_CashOnDelivery test is starting.
+[INFO ] 2022-10-15 23:38:59.867 [main] Log - Desktop_Order_CashOnDelivery test is skipped.
+[INFO ] 2022-10-15 23:39:03.291 [main] Log - Desktop_Order_CashOnDelivery test is starting.
+[INFO ] 2022-10-15 23:39:03.303 [main] Log - Desktop_Order_CashOnDelivery test is failed.
+[INFO ] 2022-10-15 23:39:03.310 [main] Log - Desktop_Order_CashOnDelivery test is failed.
+[INFO ] 2022-10-15 23:39:03.315 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-15 23:41:25.382 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-15 23:41:32.839 [main] Log - Desktop_Order_CashOnDelivery test is starting.
+[INFO ] 2022-10-15 23:42:16.261 [main] Log - Desktop_Order_CashOnDelivery test is succeed.
+[INFO ] 2022-10-15 23:42:23.109 [main] Log - Desktop_Order_CreditCard test is starting.
+[INFO ] 2022-10-15 23:43:01.969 [main] Log - Desktop_Order_CreditCard test is succeed.
+[INFO ] 2022-10-15 23:43:02.291 [main] Log - I am in onFinish method DesktopValidation
