@@ -1,17 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-15T23:41:24 IST" name="DemoWebshop" finished-at="2022-10-15T23:43:02 IST" duration-ms="97320">
+  <suite started-at="2022-10-29T23:18:55 IST" name="DemoWebshop" finished-at="2022-10-29T23:20:58 IST" duration-ms="123572">
     <groups>
     </groups>
-    <test started-at="2022-10-15T23:41:24 IST" name="DesktopValidation" finished-at="2022-10-15T23:43:02 IST" duration-ms="97320">
+    <test started-at="2022-10-29T23:18:55 IST" name="DesktopValidation" finished-at="2022-10-29T23:20:58 IST" duration-ms="123572">
       <class name="com.TestCase.Testcase">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.TestCase.Testcase@7b2bbc3]" started-at="2022-10-15T23:41:25 IST" name="Setup" finished-at="2022-10-15T23:41:32 IST" duration-ms="6904" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.TestCase.Testcase@1aafa419]" started-at="2022-10-29T23:18:56 IST" name="Setup" finished-at="2022-10-29T23:19:02 IST" duration-ms="6285" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="Desktop_Order_CashOnDelivery(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.TestCase.Testcase@7b2bbc3]" started-at="2022-10-15T23:41:32 IST" name="Desktop_Order_CashOnDelivery" description="Desktop Cash on Delivery Validation" data-provider="Order_Desktop_CashOnDelivery" finished-at="2022-10-15T23:42:16 IST" duration-ms="43426" status="PASS">
+        <test-method signature="NewRegistration(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.TestCase.Testcase@1aafa419]" started-at="2022-10-29T23:19:02 IST" name="NewRegistration" description="New Registration Validation" data-provider="getData" finished-at="2022-10-29T23:19:08 IST" duration-ms="6302" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.TestCase.Testcase.NewRegistration(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Varha]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Roopam]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[varharoopam@tosca.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[TestJani1234]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[TestJani1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TestCase.Testcase@1aafa419]" started-at="2022-10-29T23:19:08 IST" name="teardown" finished-at="2022-10-29T23:19:09 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.TestCase.Testcase@1aafa419]" started-at="2022-10-29T23:19:09 IST" name="Setup" finished-at="2022-10-29T23:19:13 IST" duration-ms="4444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="NewRegistration(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.TestCase.Testcase@1aafa419]" started-at="2022-10-29T23:19:13 IST" name="NewRegistration" description="New Registration Validation" data-provider="getData" finished-at="2022-10-29T23:19:19 IST" duration-ms="6013" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.TestCase.Testcase.NewRegistration(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tilli]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[tillisharma123@tosca.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Manushree123]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Manushree123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TestCase.Testcase@1aafa419]" started-at="2022-10-29T23:19:19 IST" name="teardown" finished-at="2022-10-29T23:19:19 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.TestCase.Testcase@1aafa419]" started-at="2022-10-29T23:19:20 IST" name="Setup" finished-at="2022-10-29T23:19:24 IST" duration-ms="4394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Desktop_Order_CashOnDelivery(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.TestCase.Testcase@1aafa419]" started-at="2022-10-29T23:19:24 IST" name="Desktop_Order_CashOnDelivery" description="Desktop Cash on Delivery Validation" data-provider="Order_Desktop_CashOnDelivery" finished-at="2022-10-29T23:20:04 IST" duration-ms="39819" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -20,12 +118,12 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[nerueni123@tosca.com]]>
+                <![CDATA[varharoopam@tosca.com]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[TestJeni12]]>
+                <![CDATA[TestJani1234]]>
               </value>
             </param>
             <param index="3">
@@ -92,15 +190,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Desktop_Order_CashOnDelivery -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TestCase.Testcase@7b2bbc3]" started-at="2022-10-15T23:42:16 IST" name="teardown" finished-at="2022-10-15T23:42:16 IST" duration-ms="297" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TestCase.Testcase@1aafa419]" started-at="2022-10-29T23:20:04 IST" name="teardown" finished-at="2022-10-29T23:20:04 IST" duration-ms="294" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.TestCase.Testcase@7b2bbc3]" started-at="2022-10-15T23:42:16 IST" name="Setup" finished-at="2022-10-15T23:42:23 IST" duration-ms="6392" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.TestCase.Testcase@1aafa419]" started-at="2022-10-29T23:20:04 IST" name="Setup" finished-at="2022-10-29T23:20:17 IST" duration-ms="13134" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="Desktop_Order_CreditCard(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.TestCase.Testcase@7b2bbc3]" started-at="2022-10-15T23:42:23 IST" name="Desktop_Order_CreditCard" description="Desktop order Credit Card Validation" data-provider="Order_Desktop_CreditCard" finished-at="2022-10-15T23:43:01 IST" duration-ms="38864" status="PASS">
+        <test-method signature="Desktop_Order_CreditCard(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.TestCase.Testcase@1aafa419]" started-at="2022-10-29T23:20:17 IST" name="Desktop_Order_CreditCard" description="Desktop order Credit Card Validation" data-provider="Order_Desktop_CreditCard" finished-at="2022-10-29T23:20:58 IST" duration-ms="40756" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -109,12 +207,12 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[tanusharma123@tosca.com]]>
+                <![CDATA[tillisharma123@tosca.com]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[Manu12]]>
+                <![CDATA[Manushree123]]>
               </value>
             </param>
             <param index="3">
@@ -191,7 +289,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Desktop_Order_CreditCard -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TestCase.Testcase@7b2bbc3]" started-at="2022-10-15T23:43:01 IST" name="teardown" finished-at="2022-10-15T23:43:02 IST" duration-ms="316" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TestCase.Testcase@1aafa419]" started-at="2022-10-29T23:20:58 IST" name="teardown" finished-at="2022-10-29T23:20:58 IST" duration-ms="246" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

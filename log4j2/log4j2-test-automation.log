@@ -42,3 +42,39 @@
 [INFO ] 2022-10-15 23:42:23.109 [main] Log - Desktop_Order_CreditCard test is starting.
 [INFO ] 2022-10-15 23:43:01.969 [main] Log - Desktop_Order_CreditCard test is succeed.
 [INFO ] 2022-10-15 23:43:02.291 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-29 19:36:22.906 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-29 19:36:22.924 [main] Log - NewRegistration test is failed.
+[INFO ] 2022-10-29 19:36:22.924 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-29 19:38:36.618 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-29 19:38:36.636 [main] Log - NewRegistration test is failed.
+[INFO ] 2022-10-29 19:38:36.637 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-29 21:39:15.182 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-29 21:39:15.202 [main] Log - NewRegistration test is failed.
+[INFO ] 2022-10-29 21:39:15.202 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-29 21:40:30.318 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-29 21:40:30.343 [main] Log - NewRegistration test is failed.
+[INFO ] 2022-10-29 21:40:30.343 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-29 23:03:20.518 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-29 23:03:20.544 [main] Log - NewRegistration test is failed.
+[INFO ] 2022-10-29 23:03:20.544 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-29 23:06:44.283 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-29 23:06:44.305 [main] Log - NewRegistration test is failed.
+[INFO ] 2022-10-29 23:06:44.305 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-29 23:15:16.217 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-29 23:15:16.244 [main] Log - NewRegistration test is failed.
+[INFO ] 2022-10-29 23:15:16.245 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-29 23:17:09.787 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-29 23:17:10.363 [main] Log - NewRegistration test is starting.
+[INFO ] 2022-10-29 23:17:10.363 [main] Log - NewRegistration test is skipped.
+[INFO ] 2022-10-29 23:17:10.529 [main] Log - NewRegistration test is failed.
+[INFO ] 2022-10-29 23:17:10.529 [main] Log - I am in onFinish method DesktopValidation
+[INFO ] 2022-10-29 23:18:55.642 [main] Log - I am in onStart method DesktopValidation
+[INFO ] 2022-10-29 23:19:02.497 [main] Log - NewRegistration test is starting.
+[INFO ] 2022-10-29 23:19:08.792 [main] Log - NewRegistration test is succeed.
+[INFO ] 2022-10-29 23:19:13.569 [main] Log - NewRegistration test is starting.
+[INFO ] 2022-10-29 23:19:19.581 [main] Log - NewRegistration test is succeed.
+[INFO ] 2022-10-29 23:19:24.428 [main] Log - Desktop_Order_CashOnDelivery test is starting.
+[INFO ] 2022-10-29 23:20:04.245 [main] Log - Desktop_Order_CashOnDelivery test is succeed.
+[INFO ] 2022-10-29 23:20:17.795 [main] Log - Desktop_Order_CreditCard test is starting.
+[INFO ] 2022-10-29 23:20:58.551 [main] Log - Desktop_Order_CreditCard test is succeed.
+[INFO ] 2022-10-29 23:20:58.800 [main] Log - I am in onFinish method DesktopValidation

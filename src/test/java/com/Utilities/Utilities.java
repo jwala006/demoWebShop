@@ -50,7 +50,7 @@ public class Utilities extends BaseClass{
 		Date date= new Date();
 		String Timestamp= date.toString().replace(":", "_").replace(" ", "_");
 		try {
-			FileUtils.copyFile(file, new File("C:\\Users\\jwala\\Documents\\Snapshot//SCR_"+Timestamp+FileName+".jpg"));
+			FileUtils.copyFile(file, new File("./Screenshots/SCR_"+Timestamp+FileName+".jpg"));
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

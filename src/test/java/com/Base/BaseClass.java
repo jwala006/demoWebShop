@@ -20,7 +20,7 @@ public class BaseClass {
 	public BaseClass() {
 		try {
 		prop= new Properties();
-		FileInputStream ip= new FileInputStream("C:\\Users\\jwala\\eclipse-workspace\\workspace\\demowebshop\\src\\test\\java\\com\\EnvironmentVariable\\config.properties");
+		FileInputStream ip= new FileInputStream("C:\\Users\\jwala\\eclipse-workspace\\demowebshop\\src\\test\\java\\com\\EnvironmentVariable\\config.properties");
 	prop.load(ip);}
 		catch(FileNotFoundException e) {
 			e.printStackTrace();
