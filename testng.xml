@@ -5,9 +5,11 @@
         <listener class-name="utils.listeners.TestListener"/>
         <listener class-name="utils.listeners.AnnotationTransformer"/>
     </listeners>
-  <test thread-count="5" name="DesktopValidation">
+  <test thread-count="5" parallel="false" name="Verify that User is able to able to 
+  create order and Participate in survey">
     <classes>
-      <class name="com.TestCase.Testcase"/>
+       <class name="com.TestCase.Testcase"/>
+       <class name="com.TestCase.PollSurveyVerificationTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
