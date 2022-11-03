@@ -1,5 +1,5 @@
 package com.Base;
-//Base Class
+//This is Base Class
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
